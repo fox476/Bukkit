@@ -6,7 +6,7 @@ public class Trollster extends JavaPlugin {
 	
 	@Override
 	public void onEnable() {
-		
+		new eventHandler(this);
 	}
 	@Override
 	public void onDisable(){
