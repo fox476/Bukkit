@@ -1,0 +1,7 @@
+name: fox476
+main: me.fox476.Trollster
+version: 1.0
+commands:
+   hello:
+      description: Blank description.
+      usage: /<command>
