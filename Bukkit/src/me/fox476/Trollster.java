@@ -1,5 +1,16 @@
 package me.fox476;
 
-public class Trollster {
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class Trollster extends JavaPlugin {
+	
+	@Override
+	public void onEnable() {
+		
+	}
+	@Override
+	public void onDisable(){
+		
+	}
 
 }
